@@ -10,5 +10,11 @@
     "password": "s",
     "isAdmin": false,
     "isSubAdmin": false
+  },
+  {
+    "username": "sa",
+    "password": "sa",
+    "isAdmin": false,
+    "isSubAdmin": false
   }
 ]
