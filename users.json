@@ -9,7 +9,7 @@
     "username": "s",
     "password": "s",
     "isAdmin": false,
-    "isSubAdmin": false
+    "isSubAdmin": true
   },
   {
     "username": "sa",
